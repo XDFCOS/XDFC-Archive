@@ -1,2 +1,2 @@
 # XDFC-Archive
-The archive of all XFFC releases.
+The archive of all XDFC releases.
